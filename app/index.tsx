@@ -9,16 +9,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-around",
     alignItems: "center",
-    backgroundColor: "#6bd45dff", // amarelo claro
+    backgroundColor: "#6bd45dff", 
   },
   title: {
     fontSize: 26,
-    color: "#000000ff", // laranja escuro
+    color: "#000000ff", 
     fontWeight: "bold",
   },
   text: {
     fontSize: 20,
-    color: "#c8e2a6ff", // laranja médio
+    color: "#c8e2a6ff", 
   },
   input: {
     width: "80%",
@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     padding: 10,
     borderRadius: 8,
-    backgroundColor: "#91ff83ff" // laranja bem claro
+    backgroundColor: "#91ff83ff" 
   },
   button: {
     marginVertical: 10,
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   },
   imcResult: {
     fontSize: 18,
-    color: "#000000ff", // vermelho
+    color: "#000000ff", 
     marginTop: 10,
     fontWeight: "bold"
   }
